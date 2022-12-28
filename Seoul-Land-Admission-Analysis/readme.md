@@ -2,4 +2,13 @@
 
 ## 1. 서울랜드는 언제 가야 되나요? - 테마파크(서울랜드, 에버랜드, 롯데월드)와 서울대공원 방문자 수의 유사도 계산
 
-https://woogong80.tistory.com/175
+      서울대공원과 서울랜드,에버랜드,롯데월드 방문자수 간의 유사도 계산.ipynb
+      
+      이 파일은 아래 포스팅에 대한 소스 코드 입니다.
+      
+      https://woogong80.tistory.com/175
+      
+      사용된 데이터는 관공지식정보시스템에서 받은 주요 관광지 월별 방문객수입니다.
+      
+      https://know.tour.go.kr/stat/visitStatDis/table.do
+      
