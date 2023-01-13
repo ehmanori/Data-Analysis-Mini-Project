@@ -26,6 +26,6 @@
       
       https://woogong80.tistory.com/178
       
-      사용되니 데이터는 기상자료개방포털의 과천시 방재기상관측(AWS) 자료입니다.
+      사용되는 데이터는 기상자료개방포털의 과천시 방재기상관측(AWS) 자료입니다.
       
       https://data.kma.go.kr/data/grnd/selectAwsRltmList.do?pgmNo=56
